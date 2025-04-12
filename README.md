@@ -257,8 +257,8 @@ All findings will be documented with clear screenshots, severity ratings, and su
 
 ## 🙌 Author
 
-**Name:** *[Your Name]*  
-**Email:** *[your-email@example.com]*  
+**Name:** *Praveen Kumar Kushwaha*  
+**Email:** *praveenkushwaha468@gmail.com*  
 **Role:** Accessibility Tester  
 
 ---
