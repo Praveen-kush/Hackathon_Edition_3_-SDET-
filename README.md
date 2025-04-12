@@ -257,7 +257,7 @@ All findings will be documented with clear screenshots, severity ratings, and su
 
 ## 🙌 Author
 
-**Name:** *Praveen Kumar Kushwaha*  
+**Name:** *Praveen Kumar Kushwaha & Vikash chaudhary*  
 **Email:** *praveenkushwaha468@gmail.com*  
 **Role:** Accessibility Tester  
 
